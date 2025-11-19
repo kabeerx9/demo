@@ -7,8 +7,8 @@ import "./globals.css";
 const inter = Inter({weight : ["400", "500", "600", "700"  , "800", "900"]})
 
 export const metadata: Metadata = {
-  title: "Kabeer's Portfolio",
-  description: "Kabeer's Portfolio Website",
+  title: "Kabeer Demo",
+  description: "Kabeer's Demo Website",
 };
 
 export default function RootLayout({

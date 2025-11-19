@@ -1,9 +1,9 @@
-import Practice from "./components/practice";
+
 
 export default function Home() {
   return (
-    <main className="h-full w-full">
-      <Practice />
-    </main>
+    <div className="min-h-screen flex items-start justify-start">
+        <p>Hello Kabeer</p>
+    </div>
   );
 }
